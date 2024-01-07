@@ -1,6 +1,6 @@
 # Data_Engineer_Challenge
 Data Engineer Project 
-# Building-a-Data-Warehousing-Pipeline-using-Python-Docker-Airflow-PostgreSQL-and-dbt
+# Building a Data Warehousing Pipeline using Python Docker, Airflow, PostgreSQL and Dbt
 
 ## Software Requirements
 * Python
@@ -12,7 +12,7 @@ Data Engineer Project
 ## How to Run
 * Clone this repository
 ```
-git clone https://github.com/rwurdig/Data_Science_Engineer_Challenge.git
+git clone https://github.com/rwurdig/Data_Engineer_Challenge.git
 ```
 * Open the project folder using VS Code
 * Open or run Docker Desktop
